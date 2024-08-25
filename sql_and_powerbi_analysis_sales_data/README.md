@@ -4,6 +4,9 @@
 
 This repository contains a comprehensive analysis of sales data using SQL for data preparation and Power BI for data transformation and dashboard creation. The project provides insights into sales performance through a series of Power BI dashboards, which are built upon a robust SQL data preparation process.
 
+<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/sql_and_powerbi_analysis_sales_data/photos/sales_overview.PNG" alt="dash" width="400"><img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/sql_and_powerbi_analysis_sales_data/photos/customer_details.PNG" alt="dash" width="400"><img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/sql_and_powerbi_analysis_sales_data/photos/Product_Details.PNG" alt="dash" width="400">
+
+
 ## Contents
 
 1. **Data Preparation with SQL**

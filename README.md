@@ -2,8 +2,7 @@
 
 Welcome to the `power_bi_data_analysis_visualizations` repository! This project is designed to provide a comprehensive guide and set of resources for performing data analysis using DAX, SQL, and Power BI. It covers everything from connecting to various databases, deploying and sharing dashboards, to troubleshooting common issues.
 
-<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/Postgresql-to-Power-Bi-Crime-Data-Analysis/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="dash" width="400">
-<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/sql_and_powerbi_analysis_sales_data/photos/sales_overview.PNG" alt="dash" width="400">
+<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/Postgresql-to-Power-Bi-Crime-Data-Analysis/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="dash" width="400"><img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/sql_and_powerbi_analysis_sales_data/photos/sales_overview.PNG" alt="dash" width="400">
 
 
 ## Table of Contents
