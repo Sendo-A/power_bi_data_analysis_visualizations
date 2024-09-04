@@ -4,7 +4,7 @@
 
 This Power BI project provides a comprehensive analysis of a company's financial health by visualizing key metrics related to Working Capital, Net Asset Value, and Financial Leverage. The report is structured into three distinct pages to facilitate detailed examination and analysis:
 
-<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/treasury_system/Summary.PNGG" alt="summary" width="800">
+<img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/treasury_system/Summary.PNG" alt="summary" width="800">
 <img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/treasury_system/Assets.PNG" alt="assets" width="800">
 <img src="https://github.com/Sendo-A/power_bi_data_analysis_visualizations/blob/main/treasury_system/Libilities.PNG" alt="liabilities" width="800">
 
